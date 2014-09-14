@@ -1,4 +1,4 @@
-{
+﻿{
     "name": "walrusBox",
     "title": "jQuery walrusBox",
     "description": "jQuery plugin - horizontal slider for news, pictures etc.",
@@ -12,7 +12,7 @@
         "devanist",
         "devamors"
     ],
-    "version": "1.0.0",
+    "version": "1.0.1",
     "author": {
         "name": "Devanist",
         "url": "http://devanist.tk"
