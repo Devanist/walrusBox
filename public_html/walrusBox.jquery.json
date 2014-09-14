@@ -1,0 +1,40 @@
+{
+    "name": "walrusBox",
+    "title": "jQuery walrusBox",
+    "description": "jQuery plugin - horizontal slider for news, pictures etc.",
+    "keywords": [
+        "horizontal",
+        "animation",
+        "slider",
+        "news", 
+        "pictures",
+        "slideshow",
+        "devanist",
+        "devamors"
+    ],
+    "version": "1.0",
+    "author": {
+        "name": "Devanist",
+        "url": "http://devanist.tk"
+    },
+    "maintainers": [
+        {
+            "name": "Przemysław 'Devanist' Lewandowski",
+            "email": "p.lewandowski28@gmail.com",
+            "url": "http://devanist.tk"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/jquery/jquery-color/blob/2.1.2/MIT-LICENSE.txt"
+        }
+    ],
+    "bugs": "https://github.com/Devanist/walrusBox/issues",
+    "homepage": "http://devanist.tk/downloads/view/CodeComment",
+    "docs": "https://github.com/Devanist/walrusBox",
+    "download": "http://code.jquery.com/#walrusBox",
+    "dependencies": {
+        "jquery": ">=1.11.1"
+    }
+}
