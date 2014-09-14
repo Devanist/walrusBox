@@ -1,0 +1,29 @@
+#walrusBoxContainer{
+	width:		400px;
+	overflow: 	hidden;
+}
+#walrusBox{
+	width:		2000px;
+	position:	relative;
+}
+#walrusBox section{
+	width: 		400px;
+	height: 	200px;
+	display:	table-cell;
+	margin: 	0; 
+	padding: 	0;
+	border: 	0;
+}
+#walrusBoxTriggers li{
+	list-style-type: 	none;
+	display:			inline-block;
+	width:				24px;
+	height:				24px;
+	margin-left: 		30px;
+}
+.blackTrigger{
+	background-image: url('blackTrigger.png');
+}
+.greyTrigger{
+	background-image: url('greyTrigger.png');
+}
