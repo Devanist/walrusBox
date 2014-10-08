@@ -1,10 +1,11 @@
 ﻿{
     "name": "walrusBox",
     "title": "jQuery walrusBox",
-    "description": "jQuery plugin - horizontal slider for news, pictures etc.",
+    "description": "jQuery plugin - horizontal content slider for news, pictures etc.",
     "keywords": [
         "horizontal",
         "animation",
+	"content",
         "slider",
         "news", 
         "pictures",
@@ -33,8 +34,8 @@
     "bugs": "https://github.com/Devanist/walrusBox/issues",
     "homepage": "http://devanist.tk/downloads/view/walrusBox",
     "docs": "https://github.com/Devanist/walrusBox",
-    "download": "http://code.jquery.com/#walrusBox",
+    "download": "https://github.com/Devanist/walrusBox/archive/master.zip",
     "dependencies": {
         "jquery": ">=1.11.1"
     }
-}
+} 
